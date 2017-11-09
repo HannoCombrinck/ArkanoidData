@@ -1,0 +1,15 @@
+settings
+{
+	video
+	{
+		fullscreen false
+		window_width 800
+		window_height 600
+		bits_per_pixel 32
+	}
+	audio
+	{
+		music_volume 100
+		sound_volume 100
+	}
+}
